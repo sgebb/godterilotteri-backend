@@ -1,0 +1,16 @@
+{
+  "name": "json-server-godterilotteri",
+  "version": "1.0.0",
+  "description": "Json server for godterilotteri",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "matsroedseth",
+  "license": "cx",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}

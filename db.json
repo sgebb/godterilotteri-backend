@@ -1,0 +1,121 @@
+{
+  "deltakere": [
+    {
+      "id": 1,
+      "navn": "Taru",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 2,
+      "navn": "Jonas",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 3,
+      "navn": "Ingunn",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 4,
+      "navn": "Øystein",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 5,
+      "navn": "Per R",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 6,
+      "navn": "Per H",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 7,
+      "navn": "Ingeborg",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 8,
+      "navn": "Ali",
+      "gangerTrukket": 1
+    },
+    {
+      "id": 9,
+      "navn": "Harald",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 10,
+      "navn": "Sissel",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 11,
+      "navn": "Gosja",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 12,
+      "navn": "Siv",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 13,
+      "navn": "Snorre",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 14,
+      "navn": "Heidi F",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 15,
+      "navn": "Hiep",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 16,
+      "navn": "Erik",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 17,
+      "navn": "Simen S",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 18,
+      "navn": "Morten M",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 19,
+      "navn": "Mats",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 20,
+      "navn": "Gunilla",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 21,
+      "navn": "Mari",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 22,
+      "navn": "Morten P",
+      "gangerTrukket": 0
+    },
+    {
+      "id": 23,
+      "navn": "Jonas",
+      "gangerTrukket": 0
+    }
+  ],
+  "trekninger": [
+  ]
+}
