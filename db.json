@@ -162,5 +162,10 @@
       "navn": "Snorre",
       "deltakerId": 13
     }
+  ],
+  "characters": [
+    { "id": 1,
+     "name": "mario"
+    }
   ]
 }
